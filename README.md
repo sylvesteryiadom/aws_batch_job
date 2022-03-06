@@ -132,3 +132,14 @@ Please reference the files above for Dockerfile and python script used in this d
 2.  Delete ECR repository
 3.  Disable Compute environment , Job Queue and Deregister Job Definition
 4.  Once disabled delete job queue and compute environment
+
+
+## Lessons Learned
+
+How to use AWS Batch service
+
+How to integrate AWS Batch service with Docker and Python
+
+Using AWS ECR as an alternative to docker hub
+
+Viewing and troubleshooting Batch jobs using AWS Cloudwatch logs/log groups
