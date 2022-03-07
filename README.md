@@ -1,7 +1,7 @@
 
 ## AWS Batch w/ Docker and Python
 
-This demo project that walks through how to create a batch job using AWS Batch, Docker, Python and Dynamo DB
+This demo project walks through how to create a batch job using AWS Batch, Docker, Python and Dynamo DB
 
 
 
